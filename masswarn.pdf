@@ -1,0 +1,2080 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.python.org/3/library/re.html)
+>> /Border [ 0 0 0 ] /Rect [ 350.4383 573.0236 415.7472 585.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://regex101.com/)
+>> /Border [ 0 0 0 ] /Rect [ 83.25291 561.0236 124.9429 573.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 8 0 R 9 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://discordapi.com/permissions.html)
+>> /Border [ 0 0 0 ] /Rect [ 402.0529 225.0236 500.9629 237.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 12 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Outlines 23 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+16 0 obj
+<<
+/Author () /CreationDate (D:20200416200323+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200416200323+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (masswarn) /Trapped /False
+>>
+endobj
+17 0 obj
+<<
+/Count 5 /Kids [ 6 0 R 7 0 R 11 0 R 13 0 R 14 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 7753
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 186.0349 0 Td (masswarn) Tj T* -186.0349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (-masswarn) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 665.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.909318 Tw (Warn multiple members at once. This advanced command allows you to filter members to warn with) Tj T* 0 Tw (UNIX-like arguments, called flags.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.8236 cm
+q
+BT 1 0 0 1 0 50 Tm 12.60634 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each "flag" is one more condition for the search. For example, ) Tj /F3 10 Tf 0 0 0 rg (-masswarn) Tj T* 0 Tw 1.09748 Tw (--has-role) Tj ( ) Tj ("Member") Tj ( ) Tj (--joined-after) Tj ( ) Tj ("24) Tj ( ) Tj (april) Tj ( ) Tj (2020") Tj /F1 10 Tf 0 0 0 rg ( will filter the member who have the) Tj T* 0 Tw .399461 Tw ("Member" role ) Tj /F2 10 Tf (and) Tj /F1 10 Tf ( who joined after the 24th of April of 2020. The search begins with all members on the) Tj T* 0 Tw .743672 Tw (server, then each condition is checked on each member to know if it should be kept in the masswarn or) Tj T* 0 Tw (not.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.288988 Tw (You also have to tell to the bot what to do. Unlike the warn command where it takes actions, sends a) Tj T* 0 Tw .370988 Tw (message to the member and one in the modlog, you can decide what the bot should do, to make it faster) Tj T* 0 Tw (or prevent spam.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.8236 cm
+Q
+q
+1 0 0 1 62.69291 521.8236 cm
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.754985 Tw 12 TL /F3 10 Tf 0 0 0 rg (--take-actions) Tj /F1 10 Tf 0 0 0 rg ( will perform the action related to the warn \(add the mute role, kick or ban a) Tj T* 0 Tw (member...\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+Q
+q
+1 0 0 1 62.69291 479.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--send-modlog) Tj /F1 10 Tf 0 0 0 rg ( will send a message in the modlog) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.8236 cm
+Q
+q
+1 0 0 1 62.69291 461.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--send-dm) Tj /F1 10 Tf 0 0 0 rg ( will send a DM to the member) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 461.8236 cm
+Q
+q
+1 0 0 1 62.69291 449.8236 cm
+Q
+q
+1 0 0 1 62.69291 378.8236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You have to put at least one of those flags.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 372.8236 cm
+Q
+q
+1 0 0 1 62.69291 318.8236 cm
+q
+BT 1 0 0 1 0 38 Tm -0.080964 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can then put the optional ) Tj /F3 10 Tf 0 0 0 rg (--reason) Tj /F1 10 Tf 0 0 0 rg ( flag to set the reason of the warning. Be sure to put it enclosed in) Tj T* 0 Tw -0.051512 Tw (quotes. If you're performing a level 2 or 5 warning, you can also use the ) Tj /F3 10 Tf 0 0 0 rg (--time) Tj /F1 10 Tf 0 0 0 rg ( flag to define the duration) Tj T* 0 Tw 1.22856 Tw (of the mute/ban if you want to make it temporary, the format of the time is the same as for the simple) Tj T* 0 Tw (warnings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 290.4772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 260.4772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .089989 Tw (Some flags needs an input with them, it can be a date, a set of roles, a regex expression... We will explain) Tj T* 0 Tw (how input works for those flags. Note that if you need to put multiple words, you'll have to use quotes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 242.4772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Date imput) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.4772 cm
+q
+BT 1 0 0 1 0 14 Tm 1.296235 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the flags ) Tj /F3 10 Tf 0 0 0 rg (--joined-before) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (--joined-after) Tj /F1 10 Tf 0 0 0 rg (, you will need to put a specific date. A lot of) Tj T* 0 Tw (formats are supported, here are some examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.4772 cm
+Q
+q
+1 0 0 1 62.69291 206.4772 cm
+Q
+q
+1 0 0 1 62.69291 194.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (27) Tj ( ) Tj (june) Tj ( ) Tj (2018) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 188.4772 cm
+Q
+q
+1 0 0 1 62.69291 176.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (13/2/18) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.4772 cm
+Q
+q
+1 0 0 1 62.69291 158.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (august) Tj ( ) Tj (2019) Tj /F1 10 Tf 0 0 0 rg ( \(will be the first day of the month\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 152.4772 cm
+Q
+q
+1 0 0 1 62.69291 140.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (2017) Tj /F1 10 Tf 0 0 0 rg ( \(will be the first day of the year\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 134.4772 cm
+Q
+q
+1 0 0 1 62.69291 122.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (monday) Tj /F1 10 Tf 0 0 0 rg ( \(will be the first monday of the month\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 116.4772 cm
+Q
+q
+1 0 0 1 62.69291 104.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (23) Tj ( ) Tj (jun) Tj ( ) Tj (12:00) Tj /F1 10 Tf 0 0 0 rg ( \(you can also specify the hour\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 98.47717 cm
+Q
+q
+1 0 0 1 62.69291 86.47717 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Wednesday,) Tj ( ) Tj (19th) Tj ( ) Tj (of) Tj ( ) Tj (September) Tj ( ) Tj (of) Tj ( ) Tj (2018) Tj /F1 10 Tf 0 0 0 rg ( \(if you really want to lose time, that works too\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 86.47717 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 9440
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Role input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.754252 Tw 12 TL /F1 10 Tf 0 0 0 rg (The flags ) Tj /F3 10 Tf 0 0 0 rg (--has-role) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--has-any-role) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--has-all-roles) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--has-none-roles) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--above) Tj /F1 10 Tf 0 0 0 rg ( and) Tj T* 0 Tw -0.004297 Tw /F3 10 Tf 0 0 0 rg (--below) Tj /F1 10 Tf 0 0 0 rg ( requires you to type one or more roles. You can provide the role ID or the role name, in quotes if) Tj T* 0 Tw (there are spaces. Here are some examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-role) Tj ( ) Tj (Moderator) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-any-role) Tj ( ) Tj (Member) Tj ( ) Tj (Staff) Tj ( ) Tj ("Nitro) Tj ( ) Tj (Booster") Tj ( ) Tj (168091848718417920) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-none-roles) Tj ( ) Tj ("Reddit) Tj ( ) Tj (Moderator") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--below) Tj ( ) Tj (Administrators) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Permission input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.388538 Tw 12 TL /F1 10 Tf 0 0 0 rg (The flags ) Tj /F3 10 Tf 0 0 0 rg (--has-perm) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--has-any-perm) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--has-all-perms) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (--has-none-perms) Tj /F1 10 Tf 0 0 0 rg ( requires) Tj T* 0 Tw (discord permissions, formatted as provided by the API. Here are the names you have to use:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 432 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 408 114 12 re f*
+.960784 .960784 .862745 rg
+n 114 408 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 396 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 396 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 384 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 384 84 12 re f*
+.960784 .960784 .862745 rg
+n 0 372 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 372 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 360 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 360 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 348 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 348 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 336 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 336 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 324 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 324 66 12 re f*
+.960784 .960784 .862745 rg
+n 0 312 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 312 126 12 re f*
+.960784 .960784 .862745 rg
+n 0 300 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 300 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 288 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 288 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 276 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 276 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 264 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 264 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 240 96 12 re f*
+.960784 .960784 .862745 rg
+n 96 240 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 228 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 228 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 216 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 216 120 12 re f*
+.960784 .960784 .862745 rg
+n 0 204 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 204 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 192 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 192 102 12 re f*
+.960784 .960784 .862745 rg
+n 0 180 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 180 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 168 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 168 66 12 re f*
+.960784 .960784 .862745 rg
+n 0 156 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 156 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 144 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 144 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 132 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 132 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 120 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 120 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 96 102 12 re f*
+.960784 .960784 .862745 rg
+n 102 96 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 84 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 84 42 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 72 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 60 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 48 120 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 84 12 re f*
+BT 1 0 0 1 0 410 Tm 12 TL /F3 10 Tf 0 0 0 rg (General permissions) Tj 0 0 0 rg (:) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (administrator) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (view_audit_log) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_guild) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_roles) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_channels) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (kick_members) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (ban_members) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (create_instant_invite) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (change_nickname) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_nicknames) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_emojis) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_webhooks) Tj 0 0 0 rg  T*  T* 0 0 0 rg (Text permissions) Tj 0 0 0 rg (:) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (read_messages) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (read_message_history) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (send_messages) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (send_tts_messages) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (attach_files) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (embed_links) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (external_emojis) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (mention_everyone) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (manage_messages) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (add_reactions) Tj 0 0 0 rg  T*  T* 0 0 0 rg (Voice permissions) Tj 0 0 0 rg (:) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (connect) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (speak) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (stream) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (use_voice_activation) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (priority_speaker) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (move_members) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (mute_members) Tj 0 0 0 rg  T* 0 0 0 rg (-) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (deafen_members) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 129.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are some examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.8236 cm
+Q
+q
+1 0 0 1 62.69291 123.8236 cm
+Q
+q
+1 0 0 1 62.69291 111.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-perm) Tj ( ) Tj (send_messages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 105.8236 cm
+Q
+q
+1 0 0 1 62.69291 93.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-any-perm) Tj ( ) Tj (manage_messages) Tj ( ) Tj (manage_channels) Tj ( ) Tj (manage_roles) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 87.82362 cm
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Length 6538
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-none-perms) Tj ( ) Tj (administrator) Tj ( ) Tj (manage_guild) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-all-perms) Tj ( ) Tj (send_messages) Tj ( ) Tj (connect) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Member input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.081797 Tw 12 TL /F1 10 Tf 0 0 0 rg (The flags ) Tj /F3 10 Tf 0 0 0 rg (--select) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--hackban-select) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (--exclude) Tj /F1 10 Tf 0 0 0 rg ( requires you to pass multiple members,) Tj T* 0 Tw .032339 Tw (either with their name, their nickname, their name+tag, their ID or by mentionning them \(only IDs works for) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (--hackban-select) Tj /F1 10 Tf 0 0 0 rg (\). Here are some examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--select) Tj ( ) Tj ("El) Tj ( ) Tj (Laggron#0260") Tj ( ) Tj (133801473317404673) Tj ( ) Tj (Twentysix) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--exclude) Tj ( ) Tj (aikaterna#1393) Tj ( ) Tj ("Kowlin,) Tj ( ) Tj (That) Tj ( ) Tj (silver) Tj ( ) Tj (Yuumi) Tj ( ) Tj (main") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--hackban-select) Tj ( ) Tj (301368585714925568) Tj ( ) Tj (336966738103107584) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Regual expressions input \(regex\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.706342 Tw 12 TL /F1 10 Tf 0 0 0 rg (The flags ) Tj /F3 10 Tf 0 0 0 rg (--name) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (--nickname) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (--display-name) Tj /F1 10 Tf 0 0 0 rg ( requires regular expressions. Not going to) Tj T* 0 Tw .028876 Tw (explain how those work here, you can learn how to use those on ) Tj 0 0 .501961 rg (Python's guide) Tj 0 0 0 rg ( and test your expressions) Tj T* 0 Tw (with ) Tj 0 0 .501961 rg (regex101) Tj 0 0 0 rg (. Just keep in mind you have to keep your expression enclosed in quotes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 514.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Now it's time to list all of the flags.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.6772 cm
+Q
+q
+1 0 0 1 62.69291 508.6772 cm
+Q
+q
+1 0 0 1 62.69291 364.6772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Actions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 123 cm
+Q
+q
+1 0 0 1 26 123 cm
+Q
+q
+1 0 0 1 26 99 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .253828 Tw 12 TL /F3 10 Tf 0 0 0 rg (--take-action) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 0 0 rg (take-actions) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Defines if the bot should take an action \(add the mute role,) Tj T* 0 Tw (kick/ban the member\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 93 cm
+Q
+q
+1 0 0 1 26 81 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--send-dm) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Defines if the bot should send a DM to the warned members) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 75 cm
+Q
+q
+1 0 0 1 26 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--send-modlog) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Defines if the bot should send a message in the modlog channel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 57 cm
+Q
+q
+1 0 0 1 26 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.249269 Tw 12 TL /F3 10 Tf 0 0 0 rg (confirm) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (If passed, the bot won't ask for a confirmation and just directly process the) Tj T* 0 Tw (masswarn silently. This can be useful combined with a scheduler.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 27 cm
+Q
+q
+1 0 0 1 26 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--reason) Tj ( ) Tj (<) Tj (text) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (The reason of the masswarn, substitutions works) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 9 cm
+Q
+q
+1 0 0 1 26 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--time) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 0 0 rg (--length) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (The duration of the warn, for mutes and bans) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 358.6772 cm
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Length 8919
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 399.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Member search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 345 cm
+Q
+q
+1 0 0 1 26 345 cm
+Q
+q
+1 0 0 1 26 321 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .899147 Tw 12 TL /F3 10 Tf 0 0 0 rg (--select) Tj ( ) Tj ([member,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Select multiple members to include in the masswarn, they are) Tj T* 0 Tw (not affected by your search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 315 cm
+Q
+q
+1 0 0 1 26 291 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.426342 Tw 12 TL /F3 10 Tf 0 0 0 rg (--hackban-select) Tj ( ) Tj ([member,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Select multiple users outside of the server for a) Tj T* 0 Tw (hackban. You have to provide valid user IDs and the warning level must be 5.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 285 cm
+Q
+q
+1 0 0 1 26 261 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.051797 Tw 12 TL /F3 10 Tf 0 0 0 rg (--exclude) Tj ( ) Tj ([member,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Select multiple members to exclude from the search, they) Tj T* 0 Tw (won't be warned) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 255 cm
+Q
+q
+1 0 0 1 26 231 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.003095 Tw 12 TL /F3 10 Tf 0 0 0 rg (--everyone) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes everyone in the server, your search will therefore not be committed, the) Tj /F1 10 Tf  T* 0 Tw /F3 10 Tf 0 0 0 rg (--exclude) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (flag will also not be used) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 225 cm
+Q
+q
+1 0 0 1 26 213 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--name) Tj ( ) Tj (<) Tj (regex) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Only includes the members which names validates to the given expression) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 207 cm
+Q
+q
+1 0 0 1 26 183 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .939069 Tw 12 TL /F3 10 Tf 0 0 0 rg (--nickname) Tj ( ) Tj (<) Tj (regex) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Only includes the members which nicknames validates to the given) Tj T* 0 Tw (expression, this excludes members without nicknames) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 177 cm
+Q
+q
+1 0 0 1 26 153 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.302976 Tw 12 TL /F3 10 Tf 0 0 0 rg (--display-name) Tj ( ) Tj (<) Tj (regex) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Only includes the members which nicknames, or name if) Tj T* 0 Tw (nickname isn't set, validates to the given expression) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 147 cm
+Q
+q
+1 0 0 1 26 135 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--only-humans) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Excludes all bots from the search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 129 cm
+Q
+q
+1 0 0 1 26 117 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--only-bots) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Only includes bots in the search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 111 cm
+Q
+q
+1 0 0 1 26 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .52748 Tw 12 TL /F3 10 Tf 0 0 0 rg (--joined-before) Tj ( ) Tj (<) Tj (date) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Members who joined after the given date will be excluded from) Tj T* 0 Tw (the masswarn) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 81 cm
+Q
+q
+1 0 0 1 26 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .33248 Tw 12 TL /F3 10 Tf 0 0 0 rg (--joined-after) Tj ( ) Tj (<) Tj (date) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Members who joined before the given date will be excluded from) Tj T* 0 Tw (the masswarn) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 51 cm
+Q
+q
+1 0 0 1 26 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .37284 Tw 12 TL /F3 10 Tf 0 0 0 rg (--last-njoins) Tj ( ) Tj (<) Tj (number) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the last x members of the server, this is useful in case) Tj T* 0 Tw (of a raid) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 21 cm
+Q
+q
+1 0 0 1 26 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .06284 Tw 12 TL /F3 10 Tf 0 0 0 rg (--first-njoins) Tj ( ) Tj (<) Tj (number) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the first x members of the server, if you want to purge) Tj T* 0 Tw (the elders you monster) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Permissions search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 141 cm
+Q
+q
+1 0 0 1 26 141 cm
+Q
+q
+1 0 0 1 26 117 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .232706 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-perm) Tj ( ) Tj (<) Tj (permission) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members with the given permission, this is based) Tj T* 0 Tw (on roles, not channel permissions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 111 cm
+Q
+q
+1 0 0 1 26 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .525433 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-any-perm) Tj ( ) Tj ([permission,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have any of the given) Tj T* 0 Tw (permissions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 81 cm
+Q
+q
+1 0 0 1 26 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .536342 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-all-perms) Tj ( ) Tj ([permission,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have all of the given) Tj T* 0 Tw (permissions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 51 cm
+Q
+q
+1 0 0 1 26 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.933976 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-none-perms) Tj ( ) Tj ([permission,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Include the members who have none of the) Tj T* 0 Tw (given permissions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 21 cm
+Q
+q
+1 0 0 1 26 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.75247 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-perm-int) Tj ( ) Tj (<) Tj (number) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members whose permission integer matches) Tj T* 0 Tw (what you gave, you can calculate your permission integer on the) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (permissions calculator) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 6254
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 537.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Role search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 207 cm
+Q
+q
+1 0 0 1 26 207 cm
+Q
+q
+1 0 0 1 26 195 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-role) Tj ( ) Tj (<) Tj (role) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have the given role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 189 cm
+Q
+q
+1 0 0 1 26 177 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-any-role) Tj ( ) Tj ([role,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have any of the given roles) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 171 cm
+Q
+q
+1 0 0 1 26 159 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-all-roles) Tj ( ) Tj ([role,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have all of the given roles) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 153 cm
+Q
+q
+1 0 0 1 26 141 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-none-roles) Tj ( ) Tj ([role,) Tj ( ) Tj (...]) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Include the members who have none of the given roles) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 135 cm
+Q
+q
+1 0 0 1 26 123 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--has-no-role) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Excludes the members with any custom role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 117 cm
+Q
+q
+1 0 0 1 26 93 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .822976 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-exactly-nroles) Tj ( ) Tj (<) Tj (number) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have the number of roles) Tj T* 0 Tw (given, this doesn't count the @everyone role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 87 cm
+Q
+q
+1 0 0 1 26 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.354976 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-more-than-nroles) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have more roles than the number) Tj T* 0 Tw (given, this doesn't count the @everyone role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 57 cm
+Q
+q
+1 0 0 1 26 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.854976 Tw 12 TL /F3 10 Tf 0 0 0 rg (--has-less-than-nroles) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members who have less roles than the number) Tj T* 0 Tw (given, this doesn't count the @everyone role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 27 cm
+Q
+q
+1 0 0 1 26 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--above) Tj ( ) Tj (<) Tj (role) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members whose top role is above the given role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 9 cm
+Q
+q
+1 0 0 1 26 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (--below) Tj ( ) Tj (<) Tj (role) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf (Includes the members whose top role is below the given role) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 508.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 490.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enough info, time for explained examples.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.6772 cm
+Q
+q
+1 0 0 1 62.69291 484.6772 cm
+Q
+q
+1 0 0 1 62.69291 424.6772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 3.981627 Tw 12 TL /F3 10 Tf 0 0 0 rg (-masswarn) Tj ( ) Tj (2) Tj ( ) Tj (--take-actions) Tj ( ) Tj (--send-dm) Tj ( ) Tj (--send-modlog) Tj ( ) Tj (--reason) Tj ( ) Tj ("Potential) Tj T* 0 Tw 8.555681 Tw (raid") Tj ( ) Tj (--time) Tj ( ) Tj (24h) Tj ( ) Tj (--joined-after) Tj ( ) Tj ("12) Tj ( ) Tj (august) Tj ( ) Tj (14:30") Tj ( ) Tj (--has-no-roles) Tj T* 0 Tw .827045 Tw (--only-humans) Tj /F1 10 Tf 0 0 0 rg ( This will mute for a day all members who joined after the 12th of august at 2:30) Tj T* 0 Tw -0.01119 Tw (p.m. without roles and excluding bots. Everyone will receive a message and this will be logged in the) Tj T* 0 Tw (modlog.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 418.6772 cm
+Q
+q
+1 0 0 1 62.69291 394.6772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 11.98163 Tw 12 TL /F3 10 Tf 0 0 0 rg (-masswarn) Tj ( ) Tj (5) Tj ( ) Tj (--take-actions) Tj ( ) Tj (--send-dm) Tj ( ) Tj (--reason) Tj ( ) Tj ("toxic) Tj ( ) Tj (potatoes") Tj T* 0 Tw (--has-role) Tj ( ) Tj (Starbucks) Tj /F1 10 Tf 0 0 0 rg ( Just bans everyone with the role "Starbucks") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.6772 cm
+Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Count 0 /Type /Outlines
+>>
+endobj
+24 0 obj
+<<
+/Nums [ 0 25 0 R 1 26 0 R 2 27 0 R 3 28 0 R 4 29 0 R ]
+>>
+endobj
+25 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+26 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+27 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+28 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+29 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000073 00000 n 
+0000000145 00000 n 
+0000000252 00000 n 
+0000000364 00000 n 
+0000000469 00000 n 
+0000000588 00000 n 
+0000000793 00000 n 
+0000000998 00000 n 
+0000001191 00000 n 
+0000001364 00000 n 
+0000001480 00000 n 
+0000001710 00000 n 
+0000001902 00000 n 
+0000002127 00000 n 
+0000002333 00000 n 
+0000002439 00000 n 
+0000002705 00000 n 
+0000002792 00000 n 
+0000010597 00000 n 
+0000020089 00000 n 
+0000026679 00000 n 
+0000035650 00000 n 
+0000041956 00000 n 
+0000042003 00000 n 
+0000042080 00000 n 
+0000042114 00000 n 
+0000042148 00000 n 
+0000042182 00000 n 
+0000042216 00000 n 
+trailer
+<<
+/ID 
+[<aba5ce9dfd37895993fd2f96c9e86d9a><aba5ce9dfd37895993fd2f96c9e86d9a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 16 0 R
+/Root 15 0 R
+/Size 30
+>>
+startxref
+42250
+%%EOF
